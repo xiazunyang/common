@@ -2,6 +2,6 @@ package com.numeron.common;
 
 public interface Identifiable<T> {
 
-    T getId();
+    T getIdentity();
 
 }
