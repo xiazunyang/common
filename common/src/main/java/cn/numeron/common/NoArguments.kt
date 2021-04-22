@@ -1,4 +1,4 @@
-package com.numeron.common
+package cn.numeron.common
 
 
 @Target(AnnotationTarget.CLASS)
