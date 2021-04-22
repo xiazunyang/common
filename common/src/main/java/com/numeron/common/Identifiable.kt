@@ -1,7 +1,5 @@
-package com.numeron.common;
+package com.numeron.common
 
-public interface Identifiable<T> {
-
-    T getIdentity();
-
+interface Identifiable<T> {
+    val identity: T
 }
